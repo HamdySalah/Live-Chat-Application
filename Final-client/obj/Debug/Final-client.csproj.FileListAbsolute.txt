@@ -1,0 +1,512 @@
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Final-client.exe.config
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Final-client.exe
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Final-client.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-client.csproj.AssemblyReference.cache
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final_client.Form1.resources
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final_client.Properties.Resources.resources
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-client.csproj.GenerateResource.cache
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-client.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-client.exe
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-client.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\libSkiaSharp.dylib
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\avcodec-57.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\avdevice-57.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\avfilter-6.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\avformat-57.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\avutil-55.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\postproc-54.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\swresample-2.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\swscale-4.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.dll.config
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.Telemetry.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\FFMpegCore.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Instances.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.Core.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.WinMM.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Sentry.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.Sinks.Debug.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Buffers.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Drawing.Common.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Memory.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Federation.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Text.Json.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ValueTuple.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Core.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Libs.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Libs.External.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.Telemetry.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Aardvark.Base.Telemetry.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.Core.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\NAudio.WinMM.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Sentry.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.Sinks.Debug.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Buffers.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Drawing.Common.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Memory.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Federation.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Text.Json.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\System.ValueTuple.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Core.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Libs.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\VisioForge.Libs.External.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Sentry.Attributes.cs
+C:\Users\Eng Shenouda\source\repos\Final-client\obj\Debug\Final-cl.1B9AF3A8.Up2Date
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\libSkiaSharp.dylib
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\avcodec-57.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\avdevice-57.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\avfilter-6.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\avformat-57.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\avutil-55.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\postproc-54.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\swresample-2.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\swscale-4.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.dll.config
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Final-client.exe.config
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Final-client.exe
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Final-client.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\FFMpegCore.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Instances.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.Core.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.Wasapi.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.WinMM.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Sentry.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.Sinks.Debug.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Buffers.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Drawing.Common.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Memory.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Federation.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Text.Json.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ValueTuple.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Core.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Libs.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Libs.External.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.Core.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.Wasapi.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\NAudio.WinMM.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Sentry.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.Sinks.Debug.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Buffers.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Drawing.Common.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Memory.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Federation.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Text.Json.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\System.ValueTuple.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Core.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Libs.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\VisioForge.Libs.External.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-client.csproj.AssemblyReference.cache
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final_client.Form1.resources
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final_client.Properties.Resources.resources
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-client.csproj.GenerateResource.cache
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Sentry.Attributes.cs
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-client.csproj.CoreCompileInputs.cache
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-cl.1B9AF3A8.Up2Date
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-client.exe
+C:\Users\Eng Shenouda\OneDrive\Desktop\NP_task\NP\Final-client\obj\Debug\Final-client.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\libSkiaSharp.dylib
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\x86\libSkiaSharp.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\x64\libSkiaSharp.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\arm64\libSkiaSharp.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\avcodec-57.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\avdevice-57.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\avfilter-6.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\avformat-57.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\avutil-55.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\postproc-54.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\swresample-2.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\swscale-4.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.dll.config
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Final-client.exe.config
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Final-client.exe
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Final-client.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.Telemetry.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\FFmpeg.AutoGen.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\FFMpegCore.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Instances.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.Core.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.Wasapi.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.WinMM.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Sentry.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.Sinks.Debug.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Buffers.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Collections.Immutable.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Drawing.Common.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Memory.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Duplex.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Federation.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.NetTcp.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Primitives.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Security.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Text.Json.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ValueTuple.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Core.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Libs.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Libs.External.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Xabe.FFmpeg.dll
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.Telemetry.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Aardvark.Base.Telemetry.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\FFmpeg.AutoGen.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.Core.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.Wasapi.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\NAudio.WinMM.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Sentry.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.Sinks.Debug.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Buffers.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Collections.Immutable.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Drawing.Common.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Memory.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Duplex.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Federation.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Http.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.NetTcp.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ServiceModel.Security.pdb
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Text.Json.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\System.ValueTuple.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Core.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Libs.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\VisioForge.Libs.External.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\bin\Debug\Xabe.FFmpeg.xml
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-client.csproj.AssemblyReference.cache
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final_client.Form1.resources
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final_client.Properties.Resources.resources
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-client.csproj.GenerateResource.cache
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Sentry.Attributes.cs
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-client.csproj.CoreCompileInputs.cache
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-cl.1B9AF3A8.Up2Date
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-client.exe
+C:\Users\welcome\Downloads\New folder (2)\Final-client\obj\Debug\Final-client.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\libSkiaSharp.dylib
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\x86\libSkiaSharp.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\x64\libSkiaSharp.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\arm64\libSkiaSharp.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\avcodec-57.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\avdevice-57.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\avfilter-6.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\avformat-57.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\avutil-55.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\postproc-54.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\swresample-2.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\swscale-4.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.dll.config
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Final-client.exe.config
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Final-client.exe
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Final-client.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\FFmpeg.AutoGen.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\FFMpegCore.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Instances.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.Win32.Registry.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.Core.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.Wasapi.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.WinMM.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Newtonsoft.Json.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Sentry.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.Sinks.Debug.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.Sinks.File.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Buffers.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Collections.Immutable.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Drawing.Common.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Memory.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Numerics.Vectors.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Reflection.Metadata.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Security.AccessControl.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Security.Principal.Windows.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Duplex.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Federation.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Http.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.NetTcp.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Primitives.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Security.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Text.Encodings.Web.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Text.Json.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ValueTuple.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Core.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Libs.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Libs.External.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Xabe.FFmpeg.dll
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Aardvark.Base.Telemetry.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Accord.Video.FFMPEG.x64.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\FFmpeg.AutoGen.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Protocols.WsTrust.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Tokens.Saml.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.IdentityModel.Xml.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Microsoft.Win32.Registry.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.Core.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.Wasapi.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\NAudio.WinMM.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Newtonsoft.Json.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Sentry.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.Sinks.Debug.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.Sinks.File.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Serilog.Sinks.File.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\SkiaSharp.Views.Desktop.Common.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Buffers.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Collections.Immutable.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Drawing.Common.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Memory.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Numerics.Vectors.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Reflection.Metadata.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Security.AccessControl.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Security.Principal.Windows.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Duplex.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Federation.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Http.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.NetTcp.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Primitives.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ServiceModel.Security.pdb
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Text.Encodings.Web.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Text.Json.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\System.ValueTuple.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Core.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Libs.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\VisioForge.Libs.External.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\bin\Debug\Xabe.FFmpeg.xml
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-client.csproj.AssemblyReference.cache
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final_client.Form1.resources
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final_client.Properties.Resources.resources
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-client.csproj.GenerateResource.cache
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Sentry.Attributes.cs
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-client.csproj.CoreCompileInputs.cache
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-cl.1B9AF3A8.Up2Date
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-client.exe
+D:\Last Level\Second Term\Network Programming\Section\Practical exam\NP\Final-client\obj\Debug\Final-client.pdb
